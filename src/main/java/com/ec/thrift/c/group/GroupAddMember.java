@@ -122,7 +122,6 @@ public class GroupAddMember extends AbstractJavaSamplerClient {
     
     
     public static void main(String [] args){
-//    	addMember(long groupId, long adminId, String memberList, String version)
 
     	String Host = "10.0.200.168";
     	String Port = "11600";
